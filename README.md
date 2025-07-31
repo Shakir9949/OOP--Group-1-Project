@@ -1,4 +1,4 @@
-# OOP--Group-1-Project
+# Smart Grocery Inventory Manager
 Project Title: Smart Grocery Inventory Manager
 Group Members:
 Ali Shakir
