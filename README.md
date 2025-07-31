@@ -1,13 +1,22 @@
 # Smart Grocery Inventory Manager
 Project Title: Smart Grocery Inventory Manager
+
 Group Members:
+
 Ali Shakir
+
 Aneesa Tariq
+
 Elijah Palmer
+
 Berra Tekin
+
 Problem Statement
+
 Many people struggle to keep track of their grocery items at home, often buying duplicates or forgetting what they already have. This leads to food waste, overspending, and disorganized kitchens. A simple console-based grocery inventory manager can help users monitor what’s in their pantry, update quantities, set expiration alerts, and generate shopping lists based on current stock.
+
 Project Description
+
 We will create a menu-driven console application called "Smart Grocery Inventory Manager." This system allows users to:
 1. Add grocery items with name, quantity, category, and expiration date
 2. View current inventory grouped by category
