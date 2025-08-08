@@ -4,7 +4,6 @@
 The **Smart Grocery Inventory Manager** is a dual-version system — a **Java console application** and a **web-based interface** — designed to help users efficiently track grocery items in their household.  
 It aims to reduce waste, save money, and prevent duplicate purchases by providing a simple yet effective inventory management solution.
 
----
 
 ## 👥 Team Members
 - **Ali Shakir** – Team Lead, Proposal/Report Creator, Menu & Grocery Code Creator, Java Programming  
@@ -12,7 +11,6 @@ It aims to reduce waste, save money, and prevent duplicate purchases by providin
 - **Elijah Palmer** – Feature Integration Developer  
 - **Berra Tekin** – CSS Designer & UI Accessibility Specialist  
 
----
 
 ## 📖 Introduction
 The project consists of:
@@ -25,7 +23,6 @@ Both versions allow users to:
 - Update quantities
 - Remove items
 
----
 
 ## ❗ Problem Description
 Maintaining an organized grocery inventory can be challenging.  
@@ -40,7 +37,6 @@ Common issues include:
 - Allowing quick updates and removals
 - Grouping items by category for easy reference
 
----
 
 ## 💻 Technology Stack
 
@@ -64,7 +60,6 @@ Common issues include:
   - Clickable navigation menu
   - Responsive design for desktop & mobile
 
----
 
 ## 🧪 Test Cases
 
@@ -77,7 +72,6 @@ Common issues include:
 | **Invalid ID**      | Update non-existent item                   | ID: 99                                      | `Invalid ID`                | Java       |
 | **Category Group**  | Group items by category                    | Milk (Dairy), Apple (Fruit)                 | Items under correct groups  | Web        |
 
----
 
 ## 📚 User Manual
 
@@ -99,7 +93,6 @@ Common issues include:
    - **Clear Display:** Clears output section.
 3. Use **Go to Grocery** / **Go to Menu** buttons for navigation.
 
----
 
 ## 🏁 Conclusion & Future Improvements
 The Smart Grocery Inventory Manager offers:
@@ -112,5 +105,3 @@ The Smart Grocery Inventory Manager offers:
 - File/database persistence
 - User authentication for personal inventories
 - Barcode scanning for quick entry
-
----
